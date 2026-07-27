@@ -1,5 +1,5 @@
 [project]
-name = "cross_package"
+name = "PenguinPackage"
 
 version = "0.0.1"
 description = "Tools for downloading and working with Linux packages"
